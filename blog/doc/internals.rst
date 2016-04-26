@@ -7,7 +7,7 @@ The master document
 Sphinx requires a master document that contains the table of contents and
 establishes the relationship between all other documents. Tinkerer sets this
 up as the root ``master.rst`` document. More information on the `Table of 
-Contents <http://sphinx.pocoo.org/concepts.html#the-toc-tree>`_ on the Sphinx 
+Contents <http://www.sphinx-doc.org/en/1.3.6/markup/toctree.html>`_ on the Sphinx 
 website.
 
 When creating new posts/pages, tinkerer does not parse the file so it has no
